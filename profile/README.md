@@ -21,7 +21,7 @@ Nicht jede Maus ist gleich gut geeignet, um **Sehnenscheidenentzündung und Hand
 
 ## Die Top 5 ergonomischen Mäuse gegen Sehnenscheidenentzündung im Test (2025)
 
-### 1. [Logitech MX Vertical – Die beste vertikale Maus](https://www.amazon.de/dp/B07FNJB8TT)
+### 1. [Logitech MX Vertical – Die beste vertikale Maus](https://amzn.to/3XsqtKm)
 Die **Logitech MX Vertical** bietet eine **45-Grad-Neigung**, die eine **natürliche Handposition** fördert und den Druck auf das Handgelenk reduziert. Durch die **weiche Gummioberfläche** liegt sie bequem in der Hand.
 
 **Vorteile:**
@@ -33,7 +33,7 @@ Die **Logitech MX Vertical** bietet eine **45-Grad-Neigung**, die eine **natürl
 **Nachteile:**
 - Etwas teurer als herkömmliche Mäuse
 
-### 2. [Anker Ergonomische Vertikal-Maus – Preis-Leistungssieger](https://www.amazon.de/dp/B00FGI2QVC)
+### 2. [Anker Ergonomische Vertikal-Maus – Preis-Leistungssieger](https://amzn.to/3F6V0XC)
 Die **Anker Vertikal-Maus** ist eine **günstige Alternative zur MX Vertical** und besonders für Einsteiger eine gute Wahl. Mit einer **kabellosen Verbindung** und **ergonomischer Form** reduziert sie effektiv Schmerzen durch Überlastung.
 
 **Vorteile:**
@@ -45,7 +45,7 @@ Die **Anker Vertikal-Maus** ist eine **günstige Alternative zur MX Vertical** u
 - Weniger präzise als hochpreisige Modelle
 - Material fühlt sich etwas einfacher an
 
-### 3. [Evoluent VerticalMouse 4 – Profi-Modell](https://www.amazon.de/dp/B00427TAIK)
+### 3. [Evoluent VerticalMouse 4 – Profi-Modell](https://amzn.to/4i6sjIQ)
 Die **Evoluent VerticalMouse 4** ist eine der **beliebtesten ergonomischen Mäuse unter Professionals**. Sie bietet **individuelle Anpassungsmöglichkeiten** für DPI-Einstellungen und ein **sehr präzises Tracking**.
 
 **Vorteile:**
@@ -57,7 +57,7 @@ Die **Evoluent VerticalMouse 4** ist eine der **beliebtesten ergonomischen Mäus
 - Teuer
 - Eher für große Hände geeignet
 
-### 4. [Logitech Ergo M575 – Beste Trackball-Maus](https://www.amazon.de/dp/B08F2XNBPH)
+### 4. [Logitech Ergo M575 – Beste Trackball-Maus](https://amzn.to/4imdEJp)
 Die **Logitech Ergo M575** ist eine **Trackball-Maus**, das heißt, du bewegst die Maus nicht mit der Hand, sondern steuerst den Zeiger mit einem **Daumen-Trackball**. Dadurch bleibt dein Handgelenk komplett entlastet.
 
 **Vorteile:**
@@ -69,7 +69,7 @@ Die **Logitech Ergo M575** ist eine **Trackball-Maus**, das heißt, du bewegst d
 - Gewöhnungsbedürftig
 - Nicht ideal für alle Anwendungen (z. B. Gaming)
 
-### 5. [Razer Pro Click – Beste ergonomische Maus für Gaming & Arbeit](https://www.amazon.de/dp/B08F2XNBPH)
+### 5. [Razer Pro Click – Beste ergonomische Maus für Gaming & Arbeit](https://amzn.to/3QNUy3b)
 Die **Razer Pro Click** kombiniert **Ergonomie mit Performance**. Dank **hochwertigem Sensor und anpassbarer Form** ist sie eine **Gaming-taugliche ergonomische Maus**.
 
 **Vorteile:**
@@ -85,10 +85,10 @@ Die **Razer Pro Click** kombiniert **Ergonomie mit Performance**. Dank **hochwer
 
 Wenn du oft am PC arbeitest oder schon unter **Handgelenkschmerzen durch eine Sehnenscheidenentzündung** leidest, ist eine **ergonomische Maus ein Muss**. Hier die besten Empfehlungen je nach Bedarf:
 
-- **Maximale Ergonomie:** [Logitech MX Vertical](https://www.amazon.de/dp/B07FNJB8TT) oder [Evoluent VerticalMouse 4](https://www.amazon.de/dp/B00427TAIK)
-- **Preis-Leistungssieger:** [Anker Ergonomische Vertikal-Maus](https://www.amazon.de/dp/B00FGI2QVC)
-- **Alternative für minimalen Handgelenkseinsatz:** [Logitech Ergo M575](https://www.amazon.de/dp/B08F2XNBPH)
-- **Beste Mischung aus Ergonomie & Performance:** [Razer Pro Click](https://www.amazon.de/dp/B08F2XNBPH)
+- **Maximale Ergonomie:** [Logitech MX Vertical](https://amzn.to/3XsqtKm) oder [Evoluent VerticalMouse 4](https://amzn.to/4i6sjIQ)
+- **Preis-Leistungssieger:** [Anker Ergonomische Vertikal-Maus](https://amzn.to/3F6V0XC)
+- **Alternative für minimalen Handgelenkseinsatz:** [Logitech Ergo M575](https://amzn.to/4imdEJp)
+- **Beste Mischung aus Ergonomie & Performance:** [Razer Pro Click](https://amzn.to/3QNUy3b)
 
 Je nach Nutzung solltest du dich für das passende Modell entscheiden. Wichtig ist, dass du **zusätzlich auf deine Sitzhaltung, Handposition und regelmäßige Pausen achtest**, um langfristig **schmerzfrei** zu bleiben.
 
